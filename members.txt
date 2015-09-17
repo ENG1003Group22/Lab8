@@ -8,4 +8,4 @@ Is a student at Monash University
 
 Role in project: writing stuff for group
 
-Preferred branch of engineering: Civil
+Preferred branch of engineering: Civil.
